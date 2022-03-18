@@ -1,0 +1,20 @@
+.screen{
+    font-family: 'Fira Mono', monospace;
+    margin: 5%;
+    border-radius: 10px;
+    border-color: tomato;
+    border-style: solid;
+    padding:1%;
+    background-color:lightblue
+}
+body{
+    background-color:indianred;
+}
+
+dt{
+    font-weight: bold;
+}
+
+header{
+    display: flex;
+}
